@@ -1,0 +1,23 @@
+#subbody {
+    background-color: #960909;
+    margin: auto;
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 50px;
+    background-image: url("images/bg_gym.jpg");
+  }
+
+  .header-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    font-style: Light;
+}
+
+.header-text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-style: Light;
+    color: #666;
+}

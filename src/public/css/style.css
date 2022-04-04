@@ -4,10 +4,9 @@
     width: 50%;
     border: 1px solid #ccc;
     padding: 50px;
-    background-image: url("images/bg_gym.jpg");
   }
 
-  .header-title {
+.header-title {
     font-family: 'Roboto', sans-serif;
     font-size: 50px;
     text-align: center;
